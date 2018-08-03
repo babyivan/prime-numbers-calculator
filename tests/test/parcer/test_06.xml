@@ -1,0 +1,24 @@
+<root>
+    <random>
+        <interval>
+            <xx>100</xx>
+            <yy>200</yy>
+        </interval>
+        <interval>
+            <low>500</low>
+            <high>888</high>
+        </interval>
+        <interval>
+            <low>1000</low>
+            <high>3000</high>
+        </interval>
+        <interval>
+            <GG>1000</GG>
+            <WP>10000</WP>
+        </interval>
+        <interval>
+            <low>1</low>
+            <high>214749</high>
+        </interval>
+    </random>
+</root>
